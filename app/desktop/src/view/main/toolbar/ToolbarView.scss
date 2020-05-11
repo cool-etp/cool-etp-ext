@@ -1,0 +1,19 @@
+
+
+.main-toolbar {
+  z-index: 1;
+  height: $main-toolbar-height;
+
+  & > .x-body-el {
+    padding: 0 $common-right-padding 0 0;
+  }
+}
+
+.small-image {
+  width: $small-image-size;
+  height: $small-image-size;
+}
+
+.circular {
+  border-radius: 50%;
+}

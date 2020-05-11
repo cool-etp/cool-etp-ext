@@ -1,0 +1,9 @@
+/build
+/generatedFiles
+/cordova
+/node_modules
+
+.idea
+
+.DS_STore
+
